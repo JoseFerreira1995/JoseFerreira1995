@@ -33,6 +33,8 @@ I enjoy turning complex problems into simple, intuitive interfaces and continuou
 **Tools & Testing**
 - Git & GitHub
 - Jest
+- Vitest
+- Tanstack Query 
 - Axios
 - Mock APIs
 
