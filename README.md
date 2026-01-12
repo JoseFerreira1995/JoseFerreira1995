@@ -46,7 +46,5 @@ I enjoy turning complex problems into simple, intuitive interfaces and continuou
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseFerreira1995&color=blue)
-![Followers](https://img.shields.io/github/followers/JoseFerreira1995?style=for-the-badge)
-
 ---
 
