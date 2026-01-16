@@ -16,7 +16,7 @@ I enjoy turning complex problems into simple, intuitive interfaces and continuou
 - 🧠 Always improving logical thinking & problem-solving
 - 🛠️ Love working with arrays, objects, and real-life frontend scenarios
 - 📈 Interested in scalable products, startups, and digital business ideas
-- 🎹 Classical pianist & minimalist composer (yes, really)
+- 🎹 Classical pianist & minimalist composer
 
 ---
 
